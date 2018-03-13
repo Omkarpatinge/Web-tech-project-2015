@@ -1,0 +1,9 @@
+#contact_box{
+   position: absolute;
+   height: 60%;
+   width: 100%;
+  top: 280px;
+   left: 0px;
+   padding: 20px;
+   padding-left: 35px;
+}

@@ -1,0 +1,23 @@
+ #menup1{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+	height:100%;
+	width:50%;
+}
+ #menup2{
+	position: absolute;
+	top: 20px;
+	left: 600px;
+	height:100%;
+	width:50%;
+}
+
+.menup{
+	position: absolute;
+	height: 850px;
+	width: 90%;
+	left: 5%;
+	top: 350px;
+	
+}

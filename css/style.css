@@ -1,0 +1,61 @@
+
+    
+
+    
+  .floating-box {
+    float: left;
+    width: 600px;
+    height: 150px;
+    margin: 10px;
+    border: 0px;
+    position: absolute;
+    top: 750px;
+}
+      
+
+      #pics_box{
+       position:absolute;
+       height:350px;
+       width:1187px; 
+       top:320px;
+       left:0px;
+      }
+
+      #end_wala{
+        width: 100%;
+        height: 500px;
+      	position: absolute;
+      	
+      	left: 0px;
+      	top:980px;
+      }
+      #tt{
+          position: absolute;
+          width: 30%;
+          height: 100%;
+          left: 10px;
+          padding: 20px;
+         
+      }
+     #map-canvas
+    {
+    height:67%;
+    width: 32%;
+    position: absolute;
+    top: 20px;
+    left:380px;
+      }
+
+      #reg{
+      height:67%;
+    width: 32%;
+    position: absolute;
+    top: 20px;
+    left:800px;
+   
+   padding-left: 20px;
+
+
+
+      }
+ 
